@@ -4,6 +4,8 @@
 
 The **Universal Serial Adapter** is an open-source hardware project designed to bridge USB-C, RS232, and TTL communication. This fully assembled adapter is packed with features tailored for advanced prototyping, embedded development, and system debugging.  
 
+Make one yourself or <a href="https://www.imania.dk/product_info.php?cPath=204&products_id=7224&language=en">buy one here</a>
+
 <img src="./photos/Universal Serial Adapter-main.jpeg"/>
 
 ## **Technical Summary**  
