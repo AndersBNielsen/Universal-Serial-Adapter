@@ -1,8 +1,6 @@
 # Universal-Serial-Adapter
 
- Hackable USB-C UART RS232 Adapter
-
-# **Universal Serial Adapter**  
+## Hackable USB-C UART RS232 Adapter
 
 The **Universal Serial Adapter** is an open-source hardware project designed to bridge USB-C, RS232, and TTL communication. This fully assembled adapter is packed with features tailored for advanced prototyping, embedded development, and system debugging.  
 
@@ -65,5 +63,5 @@ The **Universal Serial Adapter** is an open-source hardware project designed to 
 ## **Get Started**  
 Clone or download the repository to start customizing:  
 ```bash  
-git clone https://github.com/<your-repo-name>/UniversalSerialAdapter.git  
+git clone https://github.com/AndersBNielsen/Universal-Serial-Adapter.git  
 ```
