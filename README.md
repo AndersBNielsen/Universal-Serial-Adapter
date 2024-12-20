@@ -84,7 +84,7 @@ Step 3: Pick your color, surface finish and order.
 
 If you want JLCPCB to assemble a board, the BOM and placement files are also in the repo. 
 
-You can use these affiliate links to get a board for $2 and also get $80 worth of New User Coupons at: https://jlcpcb.com/?from=Anders_N
+You can use these affiliate links to get a board for $2 and also get $60 worth of New User Coupons at: https://jlcpcb.com/?from=Anders_N
 
 And in case you also want to order a 3D-printed case you can use this link. 
 How to Get a $7 3D Printing Coupon: https://jlc3dp.com/?from=Anders_N
