@@ -67,3 +67,24 @@ Clone or download the repository to start customizing:
 ```bash  
 git clone https://github.com/AndersBNielsen/Universal-Serial-Adapter.git  
 ```
+## Getting a PCB
+This project is kindly sponsored by JLCPCB. They offer cheap, professional looking PCBs and super fast delivery.
+
+Step 1: Get the gerber file zip package from the /hardware folder
+
+Step 2: Upload to JLCPCB [https://jlcpcb.com](https://jlcpcb.com/?from=Anders_N)
+
+<img src="https://github.com/AndersBNielsen/65uino/blob/main/images/upload.png?raw=true" alt="Upload" style="width: 220px;">
+
+Step 3: Pick your color, surface finish and order.
+
+<img src="https://github.com/AndersBNielsen/65uino/blob/main/images/settings.png?raw=true" alt="Select settings" style="width: 220px;">
+
+<img src="https://github.com/AndersBNielsen/65uino/blob/main/images/save.png?raw=true" alt="Save your choice" style="width: 220px;">
+
+If you want JLCPCB to assemble a board, the BOM and placement files are also in the repo. 
+
+You can use these affiliate links to get a board for $2 and also get $80 worth of New User Coupons at: https://jlcpcb.com/?from=Anders_N
+
+And in case you also want to order a 3D-printed case you can use this link. 
+How to Get a $7 3D Printing Coupon: https://jlc3dp.com/?from=Anders_N
